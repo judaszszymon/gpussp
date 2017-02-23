@@ -1,0 +1,6 @@
+*.ptx
+*.cpp.o
+*.x
+gcc/*
+.cproject
+.project
