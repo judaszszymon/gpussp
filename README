@@ -1,0 +1,9 @@
+wejscie:
+pierwsza linijka zawiera sum, n
+kolejne n linijek to zbior
+wyjscie:
+pierwsza linijka zawiera 0, jesli podzbior nie istnieje, wpp 1
+kolejna linijka zawiera czas trwania szukania w formacie ss.uuuuuu:
+ss - sekundy
+uu mikrosekundy
+czas wall
