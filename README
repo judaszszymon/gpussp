@@ -1,9 +1,14 @@
+make generuje 3 pliki wykonywalne:
+cpu.x - zachlanny algorytm
+twocpu.x - two list algorytm
+gpu.x - two list na gpu
+
+interfejs programow:
 wejscie:
 pierwsza linijka zawiera sum, n
-kolejne n linijek to zbior
+kolejne n linijek to reprezentacja zbioru
 wyjscie:
 pierwsza linijka zawiera 0, jesli podzbior nie istnieje, wpp 1
 kolejna linijka zawiera czas trwania szukania w formacie ss.uuuuuu:
 ss - sekundy
 uu mikrosekundy
-czas wall
