@@ -1,3 +1,6 @@
+Plik publikacja.pdf zawiera tresc publikacji na ktorej bazuje algorytm.
+Plik subset speedup.odt zawiera raport z 5 uruchomien testow o roznej wielkosci i porownanie wynikow.
+Testy, na ktorych powstal raport nie znajduja sie bezposrednio w repozytorium, byly one modyfikacjami 8.in (zmniejszenie rozmiaru zbioru)
 make generuje 3 pliki wykonywalne:
 cpu.x - zachlanny algorytm
 twocpu.x - two list algorytm
